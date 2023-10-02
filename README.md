@@ -1,2 +1,0 @@
-# Pyhton-color-detection
-hacktoberfest
